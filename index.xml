@@ -2,13 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>TastyBug</title>
-    <link>http://www.tastybug.com/</link>
+    <link>https://tastybug.github.io/</link>
     <description>Recent content on TastyBug</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sat, 28 Apr 2018 16:32:03 +0200</lastBuildDate>
     
-	<atom:link href="http://www.tastybug.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://tastybug.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Contact</title>
+      <link>https://tastybug.github.io/contact/</link>
+      <pubDate>Sat, 28 Apr 2018 16:32:03 +0200</pubDate>
+      
+      <guid>https://tastybug.github.io/contact/</guid>
+      <description>Mailto:social[AT]tastybug.com
+Skype: tastybug</description>
+    </item>
+    
+    <item>
+      <title>Impressum</title>
+      <link>https://tastybug.github.io/impressum/</link>
+      <pubDate>Thu, 26 Apr 2018 19:46:41 +0200</pubDate>
+      
+      <guid>https://tastybug.github.io/impressum/</guid>
+      <description>Freiberuflicher IT Berater Philipp Bartsch
+Dunckerstr. 46 · 10439 Berlin
+fon: +49(0)151 4285 3342
+mailto:social[AT]tastybug.com
+Umsatzsteuer-Identifikationsnummer nach §27a Umsatzsteuergesetz: DE251299935
+Disclaimer - rechtliche Hinweise Auskunfts- und Widerrufsrecht
+Sie haben jederzeit das Recht, sich unentgeltlich und unverz&amp;#252;glich &amp;#252;ber die zu Ihrer Person erhobenen Daten zu erkundigen. Ebenfalls k&amp;#246;nnen Sie Ihre Zustimmung zur Verwendung Ihrer angegebenen pers&amp;#246;nlichen Daten mit Wirkung f&amp;#252;r die Zukunft widerrufen. Hierf&amp;#252;r wenden Sie sich bitte an den im Impressum angegebenen Diensteanbieter.</description>
+    </item>
     
   </channel>
 </rss>
