@@ -1,0 +1,3 @@
+### Not much to see here, move along ...
+
+Just another personal github page, this one resides at [http://tastybug.github.io](tastybug.github.io). The site content is stored in this very repository.
