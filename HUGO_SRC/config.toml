@@ -24,7 +24,7 @@ publishDir = ".."
     weight = 1
     url = "/Contact"
 [[menu.main]]
-    name = "Impressum"
+    name = "Impressum/Privacy"
     weight = 2
     url = "/Impressum"
 
