@@ -1,0 +1,30 @@
+baseURL = "https://tastybug.github.io"
+languageCode = "en-us"
+title = "TastyBug"
+theme = "coder"
+publishDir = ".."
+
+[params] # theme parameters
+    author = "Philipp Bartsch" # author's name
+    info = "Freelancing DevOps/Backend Developer" # author's job title or info
+    description = "Philipp's landing page" # site description
+    keywords = "developer,personal,devops,linkedin" # site keywords
+    
+[[params.social]]
+    name = "Github"
+    weight = 2
+    url = "https://github.com/tastybug/"
+[[params.social]]
+    name = "LinkedIn"
+    weight = 1
+    url = "https://www.linkedin.com/in/tastybug/"
+
+[[menu.main]]
+    name = "Contact"
+    weight = 1
+    url = "/Contact"
+[[menu.main]]
+    name = "Impressum"
+    weight = 2
+    url = "/Impressum"
+
