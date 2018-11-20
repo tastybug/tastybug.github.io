@@ -6,7 +6,7 @@ publishDir = ".."
 
 [params] # theme parameters
     author = "Philipp Bartsch" # author's name
-    info = "Freelancing DevOps/Backend Developer" # author's job title or info
+    info = "DevOps/Backend Developer" # author's job title or info
     description = "Philipp's landing page" # site description
     keywords = "developer,personal,devops,linkedin" # site keywords
     
