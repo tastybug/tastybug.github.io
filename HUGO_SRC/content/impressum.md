@@ -3,15 +3,11 @@ title: "Impressum"
 date: 2018-04-26T19:46:41+02:00
 ---
 
-Freiberuflicher IT Berater Philipp Bartsch 
+Philipp Bartsch 
 
 Dunckerstr. 46 · 10439 Berlin
 
-fon: __+49(0)151 4285 3342__
-
 mailto:[social[AT]tastybug.com](mailto:social[AT]tastybug.com)
-
-Umsatzsteuer-Identifikationsnummer nach §27a Umsatzsteuergesetz: __DE251299935__
 
 ---
 
