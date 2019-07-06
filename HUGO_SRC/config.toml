@@ -1,4 +1,4 @@
-baseURL = "https://tastybug.github.io"
+baseURL = "https://www.tastybug.com"
 languageCode = "en-us"
 title = "TastyBug"
 theme = "coder"
@@ -6,25 +6,29 @@ publishDir = ".."
 
 [params] # theme parameters
     author = "Philipp Bartsch" # author's name
-    info = "DevOps/Backend Developer" # author's job title or info
+    info = "Freelance Software Engineer" # author's job title or info
     description = "Philipp's landing page" # site description
     keywords = "developer,personal,devops,linkedin" # site keywords
     
 [[params.social]]
     name = "Github"
-    weight = 2
+    weight = 3
     url = "https://github.com/tastybug/"
 [[params.social]]
     name = "LinkedIn"
-    weight = 1
+    weight = 2
     url = "https://www.linkedin.com/in/tastybug/"
+[[params.social]]
+    name = "Resume.PDF"
+    weight = 1
+    url = "/latest-resume/philipp-bartsch-resume.pdf"
 
 [[menu.main]]
     name = "Contact"
     weight = 1
     url = "/Contact"
 [[menu.main]]
-    name = "Imprint/Privacy"
+    name = "Imprint & Privacy Statement"
     weight = 2
     url = "/Impressum"
 
