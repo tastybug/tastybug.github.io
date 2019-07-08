@@ -1,4 +1,4 @@
-baseURL = "https://www.tastybug.com"
+baseURL = "https://tastybug.github.io"
 languageCode = "en-us"
 title = "TastyBug"
 theme = "coder"
