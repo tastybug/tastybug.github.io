@@ -3,28 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://tastybug.github.io/contact/</loc>
+    <loc>https://www.tastybug.com/contact/</loc>
     <lastmod>2018-04-28T16:32:03+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tastybug.github.io/impressum/</loc>
+    <loc>https://www.tastybug.com/</loc>
+    <lastmod>2018-04-28T16:32:03+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.tastybug.com/impressum/</loc>
     <lastmod>2018-04-26T19:46:41+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tastybug.github.io/categories/</loc>
+    <loc>https://www.tastybug.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://tastybug.github.io/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://tastybug.github.io/</loc>
-    <lastmod>2018-04-28T16:32:03+02:00</lastmod>
+    <loc>https://www.tastybug.com/tags/</loc>
     <priority>0</priority>
   </url>
   
