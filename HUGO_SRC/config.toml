@@ -11,22 +11,18 @@ publishDir = ".."
     keywords = "developer,personal,devops,linkedin" # site keywords
     
 [[params.social]]
-    name = "Github"
-    weight = 3
-    url = "https://github.com/tastybug/"
-[[params.social]]
     name = "LinkedIn"
     weight = 2
     url = "https://www.linkedin.com/in/tastybug/"
 [[params.social]]
     name = "Resume.PDF"
-    weight = 1
+    weight = 3
     url = "/latest-resume/philipp-bartsch-resume.pdf"
-
-[[menu.main]]
-    name = "Contact"
+[[params.social]]
+    name = "Github"
     weight = 1
-    url = "/Contact"
+    url = "https://github.com/tastybug/"
+
 [[menu.main]]
     name = "Imprint & Privacy Statement"
     weight = 2
